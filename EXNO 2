@@ -1,0 +1,10 @@
+echo "Hello KALI." > sample.txt
+
+
+less sample.txt
+
+
+more sample.txt
+
+
+vi sample.txt
